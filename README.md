@@ -1,3 +1,54 @@
+Demo Video of project
+https://github.com/user-attachments/assets/68bef913-1b39-450f-8d50-7bbc460951a5
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Setup
+Google Cloud
+We want to login or register an account for Google Cloud, then create a new project like so:
+
+
+![step1](https://github.com/user-attachments/assets/d19ce691-2f80-4bfc-ba76-98fde3802bb6)
+
+
+Go to the APIs & Services page and click the ENABLE APIS AND SERVICES button then search for sheets
+
+
+
+
+![step2](https://github.com/user-attachments/assets/4cb9f047-cac6-471d-b55c-42526f8badbe)
+
+
+The click Enable
+
+
+![step3](https://github.com/user-attachments/assets/5767a74f-1ec1-4e4e-b367-abe7db12071b)
+
+
+Outputs of project:
+
+
+![output](https://github.com/user-attachments/assets/8a099ff6-9799-4327-94f5-de534f31eae4)
+
+
+![output2](https://github.com/user-attachments/assets/7dac91f6-30f0-413d-8411-75cbba59d0f0)
+
+
+
+![output3](https://github.com/user-attachments/assets/8c193835-6a94-42db-93f7-c0f2bf1acb72)
+
+
+
 ![thumbnail.png](screenshots/nextjs-sheets.jpg)
 In this tutorial, learn how to build a form that save records into Google Sheets using NextJS & TailwindCSS.
 
@@ -236,3 +287,6 @@ export default async function handler(
 
 }
 ```
+
+
+
